@@ -1,0 +1,60 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "NOMBRE": "Joel Nieto",
+        "EMAIL": "joenieto90@hotmail.com",
+        "EMPRESA": "IBM",
+        "SALARIO": "20000",
+        "IMAGEN": "Photo"
+      },
+      {
+        "id": 2,
+        "NOMBRE": "Pedro Perez",
+        "EMAIL": "pedro2021@gmail.com",
+        "EMPRESA": "Microsoft",
+        "SALARIO": "9000",
+        "IMAGEN": "Photo"
+      },
+      {
+        "id": 3,
+        "NOMBRE": "Carlos Mendoza",
+        "EMAIL": "carlosMX2021@hotmail.com",
+        "EMPRESA": "Google",
+        "SALARIO": "25000",
+        "IMAGEN": "Photo"
+      },
+      {
+        "id": 4,
+        "NOMBRE": "Martin Moreno",
+        "EMAIL": "martin@porrua",
+        "EMPRESA": "Globant",
+        "SALARIO": "20000",
+        "IMAGEN": "Photo"
+      },
+      {
+        "id": 5,
+        "NOMBRE": "Edward Elric",
+        "EMAIL": "edwardEngland@outlook.com",
+        "EMPRESA": "Softek",
+        "SALARIO": "6000",
+        "IMAGEN": "Photo"
+      },
+      {
+        "id": 6,
+        "NOMBRE": "Karla Estrada",
+        "EMAIL": "karlaSpain@michelada.com",
+        "EMPRESA": "Michelada.io",
+        "SALARIO": "18000",
+        "IMAGEN": "Photo"
+      },
+      {
+        "id": 7,
+        "NOMBRE": "Daniel Figueroa",
+        "EMAIL": "dani20MX@gmail.com",
+        "EMPRESA": "Michelada.io",
+        "SALARIO": "8000",
+        "IMAGEN": "Photo"
+      }
+    ]
+}

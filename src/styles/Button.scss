@@ -1,0 +1,50 @@
+@import "./App.scss";
+
+.ButtonAgregar {
+  font-weight: $weight4;
+  color: $font-button-Agregar;
+  font-size: calc(0.8em + 0.7vw);
+  line-height: 10px;
+  width: 7em;
+  height: 30%;
+  background: $ButtonAgregar;
+  border: 2.5px solid $BorderColorAgregar;
+  border-radius: 15px;
+  text-shadow: 10px 10px 5px rgba(8, 48, 14, 0.692);
+  margin-right: 10vw;
+  padding: 10px 20px 0px;
+}
+
+.ButtonAgregar:hover {
+  background: $ButtonAgregarHover;
+}
+
+.ButtonEdit {
+  font-weight: $weight4;
+  color: $font-button-Edit;
+  font-size: calc(0.5em + 0.5vw);
+  width: 4em;
+  height: 28px;
+  background: $ButtonEdit;
+  border-radius: 10px;
+  border: 2.5px solid $BorderColorEdit;
+}
+
+.ButtonEdit:hover {
+  background: $ButtonEditHover;
+}
+
+.ButtonDelete {
+  font-weight: $weight4;
+  color: $font-button-Delete;
+  font-size: calc(0.5em + 0.5vw);
+  width: 4.5em;
+  height: 28px;
+  background: $ButtonDelete;
+  border-radius: 10px;
+  border: 2.5px solid $BorderColorDelete;
+}
+
+.ButtonDelete:hover {
+  background: $ButtonDeleteHover;
+}

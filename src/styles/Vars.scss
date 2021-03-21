@@ -1,0 +1,47 @@
+@import "./Media.scss";
+
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;600;700&display=swap");
+
+/*Paleta de Colores*/
+$Color-Fondo: linear-gradient(#e0dfdf 10%, #d8d7d7 100%);
+$Color-NavBar: linear-gradient(#0b700b 20%, #031D25 100%);
+
+// button Agregar
+$ButtonAgregar: rgba(255, 255, 255, 0);
+$BorderColorAgregar: rgb(18, 134, 18);
+$ButtonAgregarHover: rgb(66, 180, 66);
+$font-button-Agregar: #ffffff;
+
+//button Edit
+$ButtonEdit: rgb(240, 196, 93);
+$font-button-Edit: #ffffff;
+$BorderColorEdit: rgb(185, 135, 18);
+$ButtonEditHover: rgb(194, 158, 75);
+$ree: rgba(148, 11, 41, 0.7);
+
+//button delete
+$ButtonDelete: #CA1F1F;
+$font-button-Delete: #ffffff;
+$BorderColorDelete: #5c1d1d;
+$ButtonDeleteHover: #6b0c0c;
+
+// Input
+$Input-Fondo: #ffffffec;
+$Color-Search: #030000;
+$BorderColorInput: rgb(66, 180, 66);
+
+$primary-color: #0f1e36;
+$active-color: #f72585;
+$shadow-color: #bc1428;
+$font-color-NavBar: #ffffff;
+$playbar-color: #1d022e;
+$playbar_nav-color: #031d25;
+$playbar_nav_active: #7209b7;
+
+/*Font Family*/
+$weight1: 200;
+$weight2: 300;
+$weight3: 400;
+$weight4: 600;
+$weight5: 700;
+$Source-Pro: "Source Sans Pro", sans-serif;

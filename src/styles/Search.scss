@@ -1,0 +1,35 @@
+@import "./App.scss";
+
+.SearchComponent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 30px;
+}
+
+.Search {
+  font-weight: $weight2;
+  font-size: calc(1em + 1vw);
+  line-height: 14px;
+  color: $Color-Search;
+  padding: 10px 20px 0px;
+}
+
+.input {
+    display: flex;
+    align-items: center;
+    width: 35vmax;
+    height: 44px;
+    margin: 5px auto 5px;
+    background-size: 25px;
+    padding-left: 30px;
+    border-radius: 20px;
+    border: 2px solid $BorderColorInput;
+    background: $Input-Fondo;
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(9, 80, 26);
+    cursor: pointer;
+    outline: none;
+}
